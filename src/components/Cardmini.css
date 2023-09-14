@@ -1,0 +1,9 @@
+.img2{
+    height: 90px;
+    width: 80px;
+    margin: auto;
+}
+.shadow{
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, 1);
+    cursor: pointer;
+}
